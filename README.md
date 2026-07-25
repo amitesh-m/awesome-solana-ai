@@ -142,7 +142,7 @@ AI-enhanced development tools for the Solana ecosystem.
 - [Envio Docs MCP](https://docs.envio.dev/docs/HyperIndex/mcp-server) - Remote MCP server that lets AI coding assistants search and read Envio's HyperIndex docs, including indexing Solana programs.
 
 - [trade-router-mcp](https://www.npmjs.com/package/@traderouter/trade-router-mcp) - Non-custodial Solana swap & limit-order MCP server for AI agents. 21 tools: swap, limit, trailing, TWAP, DCA, and combo orders (limit+trailing+TWAP) across Raydium, PumpSwap, Orca, and Meteora. Jito MEV-protected, Ed25519 server-message verification, `TRADEROUTER_DRY_RUN` for safe testing. Install: `npx -y @traderouter/trade-router-mcp`.
-- [Wealthville](https://github.com/amitesh-m/wealthville-integrations) - Solana + EVM liquidity-pool scoring for AI agents (Enter/Hold/Exit verdicts and a composite 0–100 score with a public, immutable track record), shipped as an MCP server (`@wealthville/mcp-server`, in the official MCP Registry), a Solana Agent Kit v2 plugin (`@wealthville/solana-agent-kit-plugin`), and an ElizaOS plugin (`@wealthville/plugin-wealthville`).
+- [Wealthville](https://github.com/amitesh-m/wealthville-integrations) - Liquidity-pool scoring for AI agents on Solana and EVM — Enter/Hold/Exit verdicts backed by a public track record. Ships as an MCP server, a Solana Agent Kit v2 plugin, and an ElizaOS plugin.
 
 ## Learning Resources
 
